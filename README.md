@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kronoz.eth</h1>
 <h3 align="center">Blockchain Developer</h3>
-
+<div class="tenor-gif-embed" data-postid="24090007" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-24090007">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronozz1&label=Profile%20views&color=0e75b6&style=flat" alt="kronozz1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronozz1" alt="kronozz1" /></a> </p>
@@ -16,7 +16,6 @@
 - 📄 Know about my experiences [https://3d-portfolio-ebon.vercel.app/AmanFaridi.pdf](https://3d-portfolio-ebon.vercel.app/AmanFaridi.pdf)
 
 - ⚡ Fun fact **i am not limited to just working on cryptocurrencies. They are at the forefront of revolutionizing various sectors by harnessing the potential of blockchain technology to create decentralized and secure applications.**
-<iframe src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="480" height="442" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@krnoz_lsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krnoz_lsd" height="30" width="40" /></a>
