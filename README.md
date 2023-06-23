@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kronoz.eth</h1>
 <h3 align="center">Blockchain Developer</h3>
-<div class="tenor-gif-embed" data-postid="24090007" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-24090007">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="left" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="kronozz1" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronozz1&label=Profile%20views&color=0e75b6&style=flat" alt="kronozz1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kronozz1" alt="kronozz1" /></a> </p>
