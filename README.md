@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/@kronoz_lsd" target="blank"><img src="https://img.shields.io/twitter/follow/@krnoz_lsd?logo=twitter&style=for-the-badge" alt="@krnoz_lsd" /></a> </p>
 
+[![kronozz1's Web3 | Identity](https://stats.quine.sh/kronozz1/web3?theme=dark)](https://quine.sh)
+
 - 👨‍💻 All of my projects are available at [https://github.com/kronozz1](https://github.com/kronozz1)
 
 - 💬 Ask me about **full stack blockchain**
