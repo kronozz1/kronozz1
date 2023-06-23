@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm kronoz.eth</h1>
 <h3 align="center">Blockchain Developer</h3>
-<img align="left" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="kronozz1" />
+<img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="kronozz1" />
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kronozz1&label=Profile%20views&color=0e75b6&style=flat" alt="kronozz1" /> </p>
 
