@@ -19,7 +19,7 @@
 - ⚡ Fun fact **i am not limited to just working on cryptocurrencies. I am at the forefront of revolutionizing various sectors by harnessing the potential of blockchain technology to create decentralized and secure applications.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@krnoz_lsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krnoz_lsd" height="30" width="40" /></a>
+<a href="https://twitter.com/@kronoz_lsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krnoz_lsd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman faridi" height="30" width="40" /></a>
 <a href="https://discord.gg/aman.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aman.eth" height="30" width="40" /></a>
 </p>
